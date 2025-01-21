@@ -1,4 +1,4 @@
-onList = [
+questionList = [
   new Question(
     "1-) HTML'in açılımı nedir?",
     {
