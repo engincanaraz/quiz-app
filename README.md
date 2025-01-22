@@ -2,6 +2,10 @@
 
 ## 📌 Genel Bakış
 
+<p align="center">
+  <img src="ornekresim.png" alt="Quiz App Önizleme" />
+</p>
+
 Quiz App, kullanıcıların bilgilerini test edebilecekleri modern ve interaktif bir web uygulamasıdır. Zamanlayıcı özelliği ve anlık geri bildirim sistemiyle etkili bir quiz deneyimi sunar.
 
 🔗 **[Canlı Demo için tıklayın](https://engincan-quiz-app.netlify.app)**
